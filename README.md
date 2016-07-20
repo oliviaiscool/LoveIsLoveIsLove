@@ -8,4 +8,4 @@
 >
 > cannot be killed or swept aside.
 
-A website that randomly generates links to positive websites. Currently building a web scraper to find more links automatically based on word analysis patterns.
+A currently unfinished website that randomly generates links to "positive" websites automatically based on word analysis patterns.
